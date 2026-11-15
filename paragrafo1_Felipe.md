@@ -1,0 +1,3 @@
+# Introdução
+
+Após alguns minutos aguardando o código executar, Sally é vencida pelo cansaço desliga seu computador e vai se detar, acreditando que nçao havia nada mais de interessante. De repente ela acorda com um som de uma voz robótica, assustada, percebeu que seu dispositivo havia se ligado sozinho, mudado a cor dos leds de seus apetrechos e se reconfigurado por completo, e agora ele fala...
