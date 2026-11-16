@@ -1,2 +1,5 @@
 # Introdução
-Era uma segunda feira normal até que Sally, uma dev estagiária, executou um código de um post do Stack Overflow de 2009...
+Era uma segunda feira normal até que Sally, uma dev estagiária, executou um código de um post do Stack Overflow de 2009 e a energia do prédio caiu. Inicialmente, todos acharam que era uma queda de energia temporária, mas em menos de uma hora, ficaram sabendo que se tratava do Apagão dos anos 3000. Sally já tinha ouvido falar dessa lenda urbana mas achava ser conversa de gente mais velha, bobeira divulgada na internet para apavorar as pessoas e convecê-las a comprarem kits de emergência superfaturados.
+Mas Sally estava errada, o apagão era real, e duraria cerca de uma semana.
+
+Sem energia, sem internet e com o celular quase descarregando, Sally olhava pela janela enquanto a cidade inteira parecia mergulhada no mesmo escuro. No escritório, o pessoal já começava a juntar as mochilas para ir embora, comentando sobre como sobreviver aos próximos sete dias sem luz, água encanada ou sinal de telefone. Antes de sair, ela deu uma última olhada para o monitor apagado e pensou que, se tivesse dado um pingo de crédito para aquelas histórias da internet, pelo menos teria comprado umas velas e umas latas de atum no caminho para o trabalho.
